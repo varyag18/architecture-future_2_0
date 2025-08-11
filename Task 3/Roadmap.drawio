@@ -1,0 +1,127 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.2 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.2">
+  <diagram name="Страница — 1" id="i2fdYvcwtz1-ZjgtFgTK">
+    <mxGraphModel dx="2253" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-1" value="Q1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="20" y="250" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-2" value="Медицинские услуги" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="690" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-3" value="ИИ диагностика" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="330" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-4" value="Финтех" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="870" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-5" value="Q2" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="440" y="250" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-6" value="Q3" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="860" y="250" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="20" y="690" width="1670" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="20" y="870" width="1670" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="20" y="330" width="1670" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-14" value="Аналитика и ML" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="510" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="20" y="510" width="1670" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-18" value="Развертывание БД" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="50" y="755" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="760" as="sourcePoint" />
+            <mxPoint x="340" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-29" value="Q4" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="250" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-31" value="Развертывание БД" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="50" y="929" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-32" value="Развертывание БД" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="50" y="395" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-33" value="Развертывание S3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="50" y="575" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-34" value="Развертывание ETL-движков" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="414" y="530" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-35" value="Развертывание каталога метаданных" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="490" y="610" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-36" value="Пилот LakeHouse" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="590" y="575" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-37" value="Разработка Единой витрины" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="950" y="575" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-39" value="Развертывание шины данных Kafka" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="230" y="575" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-40" value="Миграция на шину данных Kafka" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="240" y="395" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-41" value="Миграция на шину данных Kafka" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="250" y="929" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-42" value="Миграция на шину данных Kafka" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="250" y="755" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-43" value="Разработка ETL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="590" y="530" width="570" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-45" value="Интеграция с сервисами" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="460" y="395" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-46" value="Интеграция с сервисом ИИ диагностики" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="470" y="755" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-47" value="Миграция cо старой системы" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="670" y="755" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-48" value="Миграция cо старой системы" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="470" y="929" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-49" value="Миграция, переобучение моделей" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="670" y="395" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-50" value="Пилот MVP единой витрины" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="620" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-51" value="Ввод в эксплуатацию единой витрины" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="575" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-52" value="Интеграция с Фармацевтикой" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="970" y="755" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-53" value="Интеграция с поставщиком мед. оборудования" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="755" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-55" value="Разработка новых фичей" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="880" y="929" width="760" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-56" value="Разработка внутренних моделей" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="395" width="610" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC0lNA1xcFuRWykVNkiX-57" value="Вывод из эксплуатации DWH" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1560" y="575" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
